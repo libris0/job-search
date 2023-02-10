@@ -11,7 +11,7 @@ defineProps({
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>
-      Alright, you've successfully created your Vue project. Happy coding!
+      I really don't know what to say.
     </h3>
   </div>
 </template>
