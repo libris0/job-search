@@ -2,6 +2,7 @@
   <header>
     <div class="wrapper">
       <HelloWorld msg="Something happened" />
+      <HelloWorld msg="Something happened" />
     </div>
   </header>
 </template>
