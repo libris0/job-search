@@ -5,6 +5,8 @@ defineProps({
     required: true,
   },
 });
+
+console.log("Hello World");
 </script>
 
 <template>
