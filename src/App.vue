@@ -1,25 +1,5 @@
 <template>
-  <header>
-    <div class="wrapper">
-      <HelloWorld msg="Something happened" />
-
-      <div>
-        <h2>Comment 1</h2>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur,
-          magnam.
-        </p>
-      </div>
-    </div>
-  </header>
+  <h1>Hello Vue!</h1>
 </template>
 
-<script setup>
-import HelloWorld from "./components/HelloWorld.vue";
-</script>
-
-<style scoped>
-h2 {
-  border: 1px solid red;
-}
-</style>
+<script setup></script>
